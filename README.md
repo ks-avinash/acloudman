@@ -5,7 +5,7 @@
 
 Here are some informations about me:
 
-- 👨‍🎓 Senior Software Engineer at [RAKUTEN](https://corp.rakuten.co.in/)
+- 👨‍🎓 Lead Engineer at [7-Eleven](https://www.7-eleven.com/)
 - 📫 How to reach me: [Send me a email](mailto:ksavinash49@gmail.com)
 - ⚡ Fun facts: I even do non computer things sometimes.
 
